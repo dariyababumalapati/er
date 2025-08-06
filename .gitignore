@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac OS and Linux files
+.DS_Store
+Thumbs.db
+
+# Output files
+/output/
+*.pdf
+*.docx
+
+# Logs and dumps
+*.log
+*.out
+
+# Excel or Word input files (optional — if stored externally)
+# Uncomment if you don’t want to track source data files
+# /data/*.xlsx
+# /data/*.docx
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Environment files
+.env

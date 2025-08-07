@@ -1,6 +1,9 @@
 import pandas as pd
-import os
+from pathlib import Path
+
 from utils import write_json, read_json
+
+DATA_DIR = Path("data")
 
 def extract_building_data(df: pd.DataFrame, building_id: str) -> dict:
     df.iloc[:, 0] = df.iloc[:, 0].ffill()
@@ -53,8 +56,8 @@ def extract_all_buildings(excel_path: str) -> dict:
     return all_data
 
 
-def load_or_cache_building_data(excel_path: str, cache_path: str = "all_buildings.json") -> dict:
-    if os.path.exists(cache_path):
+def load_or_cache_building_data(excel_path: str, cache_path: Path = DATA_DIR / "all_buildings.json") -> dict:
+    if cache_path.exists():
         return read_json(cache_path)
     else:
         all_data = extract_all_buildings(excel_path)
@@ -81,6 +84,6 @@ def extract_building_addresses(excel_path: str, sheet_index: int = 4) -> dict:
     return address_dict
 
 if __name__ == "__main__":
-    excel_path = "data/xdb.xlsx"
-    json_path = "data/all_buildings.json"
+    excel_path = DATA_DIR / "xdb.xlsx"
+    json_path = DATA_DIR / "all_buildings2.json"
     building_data_dict = load_or_cache_building_data(excel_path, json_path)

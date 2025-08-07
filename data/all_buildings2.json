@@ -1,6 +1,5 @@
 {
     "148A": {
-        "address": "Viale Carso 57",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -43,7 +42,6 @@
         ]
     },
     "149A": {
-        "address": "Via Bassano del Grappa  19",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -86,7 +84,6 @@
         ]
     },
     "150A": {
-        "address": "Piazza Giovanni Randaccio 2",
         "Struttura": [
             "MISTA",
             0.75
@@ -129,7 +126,6 @@
         ]
     },
     "150B": {
-        "address": "Piazza Giovanni Randaccio 2",
         "Struttura": [
             "MISTA",
             0.75
@@ -172,7 +168,6 @@
         ]
     },
     "150C": {
-        "address": "Piazza Giovanni Randaccio 2",
         "Struttura": [
             "MISTA",
             0.75
@@ -215,7 +210,6 @@
         ]
     },
     "150D": {
-        "address": "Piazza Giovanni Randaccio 2",
         "Struttura": [
             "MISTA",
             0.75
@@ -258,7 +252,6 @@
         ]
     },
     "150E": {
-        "address": "Piazza Giovanni Randaccio 2",
         "Struttura": [
             "MISTA",
             0.75
@@ -301,7 +294,6 @@
         ]
     },
     "151A": {
-        "address": "Via Timavo 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -344,7 +336,6 @@
         ]
     },
     "152A": {
-        "address": "Via Timavo 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -387,7 +378,6 @@
         ]
     },
     "153A": {
-        "address": "Via Timavo 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -430,7 +420,6 @@
         ]
     },
     "154A": {
-        "address": "Via Timavo 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -473,7 +462,6 @@
         ]
     },
     "155A": {
-        "address": "Lungotevere della Vittoria 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -516,7 +504,6 @@
         ]
     },
     "155B": {
-        "address": "Via Timavo 34",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -559,7 +546,6 @@
         ]
     },
     "155C": {
-        "address": "Via Timavo 32",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -602,7 +588,6 @@
         ]
     },
     "155D": {
-        "address": "Via Timavo 30",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -645,7 +630,6 @@
         ]
     },
     "155E": {
-        "address": "Via Bassano del Grappa  24",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -688,7 +672,6 @@
         ]
     },
     "156A": {
-        "address": "Lungotevere della Vittoria 13",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -731,7 +714,6 @@
         ]
     },
     "156B": {
-        "address": "Via Fagare/Via Faiti snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -774,7 +756,6 @@
         ]
     },
     "156C": {
-        "address": "Via Fagare/Via Faiti snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -817,7 +798,6 @@
         ]
     },
     "156D": {
-        "address": "Via Bassano del Grappa  16",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -860,7 +840,6 @@
         ]
     },
     "156E": {
-        "address": "Via Fagare/Via Faiti 9",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -903,7 +882,6 @@
         ]
     },
     "157A": {
-        "address": "Lungotevere Flaminio 55/57",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -946,7 +924,6 @@
         ]
     },
     "158A": {
-        "address": "Lungotevere Flaminio 55",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -989,7 +966,6 @@
         ]
     },
     "159A": {
-        "address": "Lungotevere Flaminio 47",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -1032,7 +1008,6 @@
         ]
     },
     "159B": {
-        "address": "Lungotevere Flaminio 45",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -1075,7 +1050,6 @@
         ]
     },
     "160A": {
-        "address": "Lungotevere Flaminio Via Raffaele Stern Via Girolamo Muziano 52 1 4",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1118,7 +1092,6 @@
         ]
     },
     "160B": {
-        "address": "Lungotevere Flaminio Via Raffaele Stern Via Girolamo Muziano 52 1 4",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1161,7 +1134,6 @@
         ]
     },
     "160C": {
-        "address": "Lungotevere Flaminio Via Raffaele Stern Via Girolamo Muziano 52 1 4",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1204,7 +1176,6 @@
         ]
     },
     "160D": {
-        "address": "Lungotevere Flaminio Via Raffaele Stern Via Girolamo Muziano 52 1 4",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1247,7 +1218,6 @@
         ]
     },
     "160E": {
-        "address": "Lungotevere Flaminio Via Raffaele Stern Via Girolamo Muziano 52 1 4",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1290,7 +1260,6 @@
         ]
     },
     "161A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1333,7 +1302,6 @@
         ]
     },
     "161B": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1376,7 +1344,6 @@
         ]
     },
     "161C": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1419,7 +1386,6 @@
         ]
     },
     "162A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1462,7 +1428,6 @@
         ]
     },
     "162B": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1505,7 +1470,6 @@
         ]
     },
     "162C": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1548,7 +1512,6 @@
         ]
     },
     "163A": {
-        "address": "Lungotevere Flaminio 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1591,7 +1554,6 @@
         ]
     },
     "164A": {
-        "address": "Via Raffaele Stern 2",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1634,7 +1596,6 @@
         ]
     },
     "165A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1677,7 +1638,6 @@
         ]
     },
     "166A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1720,7 +1680,6 @@
         ]
     },
     "167A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1763,7 +1722,6 @@
         ]
     },
     "168A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1806,7 +1764,6 @@
         ]
     },
     "169A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1849,7 +1806,6 @@
         ]
     },
     "170A": {
-        "address": "Via Donatello 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1892,7 +1848,6 @@
         ]
     },
     "171A": {
-        "address": "Via Donatello 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1935,7 +1890,6 @@
         ]
     },
     "172A": {
-        "address": "Via Donatello 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -1978,7 +1932,6 @@
         ]
     },
     "172B": {
-        "address": "Via Donatello 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2021,7 +1974,6 @@
         ]
     },
     "172C": {
-        "address": "Via Donatello 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2064,7 +2016,6 @@
         ]
     },
     "173A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2107,7 +2058,6 @@
         ]
     },
     "174A": {
-        "address": "Lungotevere Flaminio 46",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2150,7 +2100,6 @@
         ]
     },
     "175A": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2193,7 +2142,6 @@
         ]
     },
     "176A": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2236,7 +2184,6 @@
         ]
     },
     "176B": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2279,7 +2226,6 @@
         ]
     },
     "176C": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2322,7 +2268,6 @@
         ]
     },
     "177A": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2365,7 +2310,6 @@
         ]
     },
     "178A": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2408,7 +2352,6 @@
         ]
     },
     "178B": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2451,7 +2394,6 @@
         ]
     },
     "178C": {
-        "address": "Viale del Vignola 73",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2494,7 +2436,6 @@
         ]
     },
     "179A": {
-        "address": "Viale del Vignola 61",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2537,7 +2478,6 @@
         ]
     },
     "179B": {
-        "address": "Viale del Vignola 61",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2580,7 +2520,6 @@
         ]
     },
     "179C": {
-        "address": "Viale del Vignola 61",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2623,7 +2562,6 @@
         ]
     },
     "179D": {
-        "address": "Viale del Vignola 61",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2666,7 +2604,6 @@
         ]
     },
     "179E": {
-        "address": "Via Donatello 67/67a",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -2709,7 +2646,6 @@
         ]
     },
     "180A": {
-        "address": "Viale del Vignola 44",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -2752,7 +2688,6 @@
         ]
     },
     "180B": {
-        "address": "Viale del Vignola 50/38",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2795,7 +2730,6 @@
         ]
     },
     "180C": {
-        "address": "Viale del Vignola 50/36",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2838,7 +2772,6 @@
         ]
     },
     "180D": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2881,7 +2814,6 @@
         ]
     },
     "180E": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -2924,7 +2856,6 @@
         ]
     },
     "181A": {
-        "address": "Via donatello 37/39",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -2967,7 +2898,6 @@
         ]
     },
     "181B": {
-        "address": "Via donatello 33",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3010,7 +2940,6 @@
         ]
     },
     "181C": {
-        "address": "Via donatello 23",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3053,7 +2982,6 @@
         ]
     },
     "181D": {
-        "address": "Via donatello 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3096,7 +3024,6 @@
         ]
     },
     "181E": {
-        "address": "Via donatello 11",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3139,7 +3066,6 @@
         ]
     },
     "181F": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3182,7 +3108,6 @@
         ]
     },
     "181G": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3225,7 +3150,6 @@
         ]
     },
     "181H": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3268,7 +3192,6 @@
         ]
     },
     "181I": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3311,7 +3234,6 @@
         ]
     },
     "181L": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3354,7 +3276,6 @@
         ]
     },
     "181M": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3397,7 +3318,6 @@
         ]
     },
     "181N": {
-        "address": "Viale del Vignola 50",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3440,7 +3360,6 @@
         ]
     },
     "182A": {
-        "address": "Via donatello 40",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3483,7 +3402,6 @@
         ]
     },
     "182B": {
-        "address": "Via donatello 40",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3526,7 +3444,6 @@
         ]
     },
     "182C": {
-        "address": "Via donatello 40",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3569,7 +3486,6 @@
         ]
     },
     "183A": {
-        "address": "Viale del Vignola 56",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3612,7 +3528,6 @@
         ]
     },
     "183B": {
-        "address": "Viale del Vignola 56",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -3655,7 +3570,6 @@
         ]
     },
     "184A": {
-        "address": "Viale del Vignola 56",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -3698,7 +3612,6 @@
         ]
     },
     "185A": {
-        "address": "Via Flaminia 335/337",
         "Struttura": [
             "MISTA",
             0.75
@@ -3741,7 +3654,6 @@
         ]
     },
     "185B": {
-        "address": "Via Flaminia 335/337",
         "Struttura": [
             "MISTA",
             0.75
@@ -3784,7 +3696,6 @@
         ]
     },
     "185C": {
-        "address": "Via Flaminia 335/337",
         "Struttura": [
             "MISTA",
             0.75
@@ -3827,7 +3738,6 @@
         ]
     },
     "186A": {
-        "address": "Via Flaminia 335/337",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3870,7 +3780,6 @@
         ]
     },
     "187A": {
-        "address": "Via Flaminia 335/337",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3913,7 +3822,6 @@
         ]
     },
     "187B": {
-        "address": "Via Flaminia 335/338",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3956,7 +3864,6 @@
         ]
     },
     "187C": {
-        "address": "Via Flaminia 335/339",
         "Struttura": [
             "MURATURA",
             1.0
@@ -3999,7 +3906,6 @@
         ]
     },
     "188A": {
-        "address": "Via Flaminia 335/337",
         "Struttura": [
             "MURATURA",
             1.0
@@ -4042,7 +3948,6 @@
         ]
     },
     "189A": {
-        "address": "Via Flamina 329",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -4085,7 +3990,6 @@
         ]
     },
     "189B": {
-        "address": "Unknown",
         "Struttura": [
             "MURATURA",
             1.0
@@ -4128,7 +4032,6 @@
         ]
     },
     "190A": {
-        "address": "Viale Tiziano 19",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4171,7 +4074,6 @@
         ]
     },
     "191A": {
-        "address": "Via Flaminia Viale Tiziano 328 25",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4214,7 +4116,6 @@
         ]
     },
     "192A": {
-        "address": "Via Flaminia 334",
         "Struttura": [
             "MISTA",
             0.75
@@ -4257,7 +4158,6 @@
         ]
     },
     "193A": {
-        "address": "Viale Tiziano P.zza Apollodoro 35 26",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4300,7 +4200,6 @@
         ]
     },
     "194A": {
-        "address": "P.zza Apollodoro 4",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -4343,7 +4242,6 @@
         ]
     },
     "195A": {
-        "address": "P.zza Apollodoro snc",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -4386,7 +4284,6 @@
         ]
     },
     "196A": {
-        "address": "P.zza Apollodoro 1",
         "Struttura": [
             "MISTA",
             0.75
@@ -4429,7 +4326,6 @@
         ]
     },
     "197A": {
-        "address": "Via Flaminia 342B/344",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4472,7 +4368,6 @@
         ]
     },
     "198A": {
-        "address": "P.zza Apollodoro 10",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4515,7 +4410,6 @@
         ]
     },
     "199A": {
-        "address": "Viale Tiziano 70",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4558,7 +4452,6 @@
         ]
     },
     "200A": {
-        "address": "Viale Tiziano 74/76",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4601,7 +4494,6 @@
         ]
     },
     "201A": {
-        "address": "Viale Tiziano 78/80",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4644,7 +4536,6 @@
         ]
     },
     "202A": {
-        "address": "Via Canada 5",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4687,7 +4578,6 @@
         ]
     },
     "203A": {
-        "address": "Via Unione Sovietica 18/20/22",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4730,7 +4620,6 @@
         ]
     },
     "203B": {
-        "address": "Via Unione Sovietica 14/16",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4773,7 +4662,6 @@
         ]
     },
     "203C": {
-        "address": "Via Unione Sovietica 8/10/12",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4816,7 +4704,6 @@
         ]
     },
     "203D": {
-        "address": "Via Unione Sovietica 2/4/6",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4859,7 +4746,6 @@
         ]
     },
     "204A": {
-        "address": "Via Erulo Eroli 10",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4902,7 +4788,6 @@
         ]
     },
     "205A": {
-        "address": "Viale Tiziano 108",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4945,7 +4830,6 @@
         ]
     },
     "205B": {
-        "address": "Viale Tiziano 108",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -4988,7 +4872,6 @@
         ]
     },
     "205C": {
-        "address": "Viale Tiziano 108",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5031,7 +4914,6 @@
         ]
     },
     "205D": {
-        "address": "Viale Tiziano 108",
         "Struttura": [
             "MISTA",
             0.75
@@ -5074,7 +4956,6 @@
         ]
     },
     "206A": {
-        "address": "Viale Tiziano 110",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5117,7 +4998,6 @@
         ]
     },
     "206B": {
-        "address": "Viale Tiziano 110",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5160,7 +5040,6 @@
         ]
     },
     "206C": {
-        "address": "Unknown",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5203,7 +5082,6 @@
         ]
     },
     "207A": {
-        "address": "P.zzale Cardinal Consalvi 9",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5246,7 +5124,6 @@
         ]
     },
     "207B": {
-        "address": "P.zzale Cardinal Consalvi 8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5289,7 +5166,6 @@
         ]
     },
     "208A": {
-        "address": "Via degli Stati Uniti D'America 2",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5332,7 +5208,6 @@
         ]
     },
     "209A": {
-        "address": "Via degli Stati Uniti D'America 4",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5375,7 +5250,6 @@
         ]
     },
     "210A": {
-        "address": "Via degli Stati Uniti D'America 6",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5418,7 +5292,6 @@
         ]
     },
     "211A": {
-        "address": "Via degli Stati Uniti D'America 10",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5461,7 +5334,6 @@
         ]
     },
     "212A": {
-        "address": "Via degli Olimpionici snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5504,7 +5376,6 @@
         ]
     },
     "213A": {
-        "address": "Via Colombia 2/4/6",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5547,7 +5418,6 @@
         ]
     },
     "213B": {
-        "address": "Via Olanda 11",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5590,7 +5460,6 @@
         ]
     },
     "213C": {
-        "address": "Via Olanda 11/15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5633,7 +5502,6 @@
         ]
     },
     "213D": {
-        "address": "Via Olanda 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5676,7 +5544,6 @@
         ]
     },
     "214A": {
-        "address": "Via Flaminia 438",
         "Struttura": [
             "MURATURA",
             1.0
@@ -5719,7 +5586,6 @@
         ]
     },
     "215A": {
-        "address": "Via Flaminia 443A",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5762,7 +5628,6 @@
         ]
     },
     "215B": {
-        "address": "Via Flaminia 443",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5805,7 +5670,6 @@
         ]
     },
     "215C": {
-        "address": "Viale Pinturicchio 16",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5848,7 +5712,6 @@
         ]
     },
     "215D": {
-        "address": "Viale Pinturicchio 24",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5891,7 +5754,6 @@
         ]
     },
     "215E": {
-        "address": "Via Andrea Sacchi Via Nicolo' L'alunno 3 snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5934,7 +5796,6 @@
         ]
     },
     "215F": {
-        "address": "Via Nicolo' L'alunno 8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -5977,7 +5838,6 @@
         ]
     },
     "216A": {
-        "address": "Lungotevere Grande Ammiraglio Thaon di Revel 98",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6020,7 +5880,6 @@
         ]
     },
     "216B": {
-        "address": "Via Andrea Sacchi 4",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6063,7 +5922,6 @@
         ]
     },
     "216C": {
-        "address": "Lungotevere Grande Ammiraglio Thaon di Revel 84",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6106,7 +5964,6 @@
         ]
     },
     "216D": {
-        "address": "Lungotevere Grande Ammiraglio Thaon di Revel Via Andrea Sacchi 84 4",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6149,7 +6006,6 @@
         ]
     },
     "216E": {
-        "address": "Lungotevere Grande Ammiraglio Thaon di Revel Via Andrea Sacchi 84 4",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6192,7 +6048,6 @@
         ]
     },
     "217A": {
-        "address": "Via Andrea Sacchi 4",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6235,7 +6090,6 @@
         ]
     },
     "218A": {
-        "address": "Via Perugino snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6278,7 +6132,6 @@
         ]
     },
     "218B": {
-        "address": "Via Perugino snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6321,7 +6174,6 @@
         ]
     },
     "219A": {
-        "address": "Via Perugino snc",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6364,7 +6216,6 @@
         ]
     },
     "219B": {
-        "address": "Via Giulio Romano 46",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6403,7 +6254,6 @@
         ]
     },
     "219C": {
-        "address": "Via Giulio Romano 38",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6446,7 +6296,6 @@
         ]
     },
     "219D": {
-        "address": "Via Andrea Sacchi 18",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6489,7 +6338,6 @@
         ]
     },
     "220A": {
-        "address": "Lungotevere Grande Ammiraio Thaon di Revel 11",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6532,7 +6380,6 @@
         ]
     },
     "221A": {
-        "address": "Lungotevere Grande Ammiraio Thaon di Revel 11/13",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6575,7 +6422,6 @@
         ]
     },
     "222A": {
-        "address": "Lungotevere Grande Ammiraio Thaon di Revel 11/13",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6618,7 +6464,6 @@
         ]
     },
     "223A": {
-        "address": "Lungotevere Grande Ammiraio Thaon di Revel 11/13",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -6661,7 +6506,6 @@
         ]
     },
     "224A": {
-        "address": "Lungotevere Maresciallo Diaz 20",
         "Struttura": [
             "MISTA",
             0.75
@@ -6704,7 +6548,6 @@
         ]
     },
     "224B": {
-        "address": "Lungotevere Maresciallo Diaz 20",
         "Struttura": [
             "MISTA",
             0.75
@@ -6747,7 +6590,6 @@
         ]
     },
     "224C": {
-        "address": "Lungotevere Maresciallo Diaz 20",
         "Struttura": [
             "MISTA",
             0.75
@@ -6790,7 +6632,6 @@
         ]
     },
     "225A": {
-        "address": "Via Maresciallo Caviglia 29",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6833,7 +6674,6 @@
         ]
     },
     "225B": {
-        "address": "Via Maresciallo Caviglia 29",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6876,7 +6716,6 @@
         ]
     },
     "225C": {
-        "address": "Via Maresciallo Caviglia 29",
         "Struttura": [
             "MURATURA",
             1.0
@@ -6919,7 +6758,6 @@
         ]
     },
     "226A": {
-        "address": "Piazzale Della Farnesina 1",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -6962,7 +6800,6 @@
         ]
     },
     "227A": {
-        "address": "Lungotevere Flaminio 59",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -7005,7 +6842,6 @@
         ]
     },
     "227B": {
-        "address": "Lungotevere Flaminio 59",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -7048,7 +6884,6 @@
         ]
     },
     "227C": {
-        "address": "Lungotevere Flaminio 59",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7091,7 +6926,6 @@
         ]
     },
     "228A": {
-        "address": "Piazza Melozzo da Forlì 4",
         "Struttura": [
             "MISTA",
             0.75
@@ -7134,7 +6968,6 @@
         ]
     },
     "228B": {
-        "address": "Piazza Melozzo da Forlì 4",
         "Struttura": [
             "MISTA",
             0.75
@@ -7177,7 +7010,6 @@
         ]
     },
     "228C": {
-        "address": "Piazza Melozzo da Forlì 4",
         "Struttura": [
             "MISTA",
             0.75
@@ -7220,7 +7052,6 @@
         ]
     },
     "229A": {
-        "address": "Via Raffaele Stern 2",
         "Struttura": [
             "MURATURA",
             1.0
@@ -7263,7 +7094,6 @@
         ]
     },
     "229B": {
-        "address": "Via Raffaele Stern 3",
         "Struttura": [
             "MURATURA",
             1.0
@@ -7306,7 +7136,6 @@
         ]
     },
     "229C": {
-        "address": "Unknown",
         "Struttura": [
             "MURATURA",
             1.0
@@ -7349,7 +7178,6 @@
         ]
     },
     "230A": {
-        "address": "Via Raffaele Stern 2",
         "Struttura": [
             "MURATURA",
             1.0
@@ -7392,7 +7220,6 @@
         ]
     },
     "231A": {
-        "address": "Via Raffaele Stern 2",
         "Struttura": [
             "MURATURA",
             1.0
@@ -7435,7 +7262,6 @@
         ]
     },
     "232A": {
-        "address": "Via Raffaele Stern Piazza Melozzo da Forlì 3 1",
         "Struttura": [
             "MISTA",
             0.75
@@ -7478,7 +7304,6 @@
         ]
     },
     "232B": {
-        "address": "Via Raffaele Stern Piazza Melozzo da Forlì 3 1",
         "Struttura": [
             "MISTA",
             0.75
@@ -7521,7 +7346,6 @@
         ]
     },
     "232C": {
-        "address": "Via Raffaele Stern Piazza Melozzo da Forlì 3 1",
         "Struttura": [
             "MISTA",
             0.75
@@ -7564,7 +7388,6 @@
         ]
     },
     "232D": {
-        "address": "Via Raffaele Stern Piazza Melozzo da Forlì 3 1",
         "Struttura": [
             "MISTA",
             0.75
@@ -7607,7 +7430,6 @@
         ]
     },
     "233A": {
-        "address": "Tangenziale",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7650,7 +7472,6 @@
         ]
     },
     "234A": {
-        "address": "Via Timavo 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7693,7 +7514,6 @@
         ]
     },
     "235A": {
-        "address": "Lungotevere Flaminio 61",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -7736,7 +7556,6 @@
         ]
     },
     "235B": {
-        "address": "Lungotevere Flaminio 61",
         "Struttura": [
             "ACCIAIO",
             0.25
@@ -7779,7 +7598,6 @@
         ]
     },
     "236A": {
-        "address": "Via Rabirio 1",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7822,7 +7640,6 @@
         ]
     },
     "237A": {
-        "address": "Via Flamina 354",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7865,7 +7682,6 @@
         ]
     },
     "238A": {
-        "address": "Viale Antonino di S. Giuliano Viale dei Giusti della Farnesina 782/6",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7908,7 +7724,6 @@
         ]
     },
     "225D": {
-        "address": "Unknown",
         "Struttura": [
             "MISTA",
             0.75
@@ -7951,7 +7766,6 @@
         ]
     },
     "239A": {
-        "address": "Via Maresciallo Caviglia 29",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -7994,7 +7808,6 @@
         ]
     },
     "239B": {
-        "address": "Via Maresciallo Caviglia Via dei Colli della Farnesina 30/8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8037,7 +7850,6 @@
         ]
     },
     "239C": {
-        "address": "Via Maresciallo Caviglia Via dei Colli della Farnesina 29/30/8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8080,7 +7892,6 @@
         ]
     },
     "240A": {
-        "address": "Via Maresciallo Caviglia Via dei Colli della Farnesina 30/8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8123,7 +7934,6 @@
         ]
     },
     "240B": {
-        "address": "Via Maresciallo Caviglia Via dei Colli della Farnesina 30/8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8166,7 +7976,6 @@
         ]
     },
     "241A": {
-        "address": "Via Maresciallo Caviglia Via dei Colli della Farnesina 30/8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8209,7 +8018,6 @@
         ]
     },
     "241B": {
-        "address": "Via Maresciallo Caviglia Via dei Colli della Farnesina 30/8",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8252,7 +8060,6 @@
         ]
     },
     "242A": {
-        "address": "Viale del Vignola 56",
         "Struttura": [
             "MURATURA",
             1.0
@@ -8295,7 +8102,6 @@
         ]
     },
     "243A": {
-        "address": "Via Timavo 15",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8338,7 +8144,6 @@
         ]
     },
     "244A": {
-        "address": "Via Raffaele Stern 2",
         "Struttura": [
             "MURATURA",
             1.0
@@ -8381,7 +8186,6 @@
         ]
     },
     "244B": {
-        "address": "Via Raffaele Stern 2",
         "Struttura": [
             "MURATURA",
             1.0
@@ -8424,7 +8228,6 @@
         ]
     },
     "245A": {
-        "address": "Via Giudo Reni  2",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8467,7 +8270,6 @@
         ]
     },
     "246A": {
-        "address": "Via Flaminia 353",
         "Struttura": [
             "MURATURA",
             1.0
@@ -8510,7 +8312,6 @@
         ]
     },
     "247A": {
-        "address": "Viale Tiziano 64/68",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
@@ -8553,7 +8354,6 @@
         ]
     },
     "248A": {
-        "address": "Unknown",
         "Struttura": [
             "CEMENTO ARMATO",
             0.5
